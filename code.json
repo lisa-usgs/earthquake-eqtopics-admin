@@ -1,0 +1,30 @@
+{
+  "name": “earthquake-eqtopics-admin”,
+  "organization": "U.S. Geological Survey",
+  "description": “USGS Earthquake Hazards Program EQ Topics admin”,
+  "status": “active”,
+  "homepage": "https://github.com/usgs/earthquake-eqtopics-admin",
+  "downloadURL": "https://github.com/usgs/earthquake-eqtopics-admin/archive/master.zip",
+
+  "openSourceProject": 1,
+  "license": "https://github.com/usgs/earthquake-eqtopics-admin/blob/master/LICENSE.md",
+  "vcs": "git",
+  "repository": "https://github.com/usgs/earthquake-eqtopics-admin.git",
+
+  "tags": [
+    “U.S. Geological Survey“,
+    “USGS“,
+    “earthquake topics”
+  ],
+  "languages": [
+    “English”
+  ],
+
+  "contact": {
+    "name": “Lisa Wald“,
+    "email": “lisa@usgs.gov”
+  },
+  "updated": {
+    "metadataLastUpdated": “2017-08-07”
+  }
+}
